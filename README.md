@@ -3,8 +3,6 @@
 The Restaurant Rating Predictor is a machine learning-based web application that predicts restaurant ratings based on various input features. This project utilizes Python, Streamlit, and Scikit-learn to build and deploy the model in an interactive and user-friendly interface.
 
 
-
-
 ## Features
 
 1.  User-friendly Streamlit web interface for rating prediction.
@@ -43,6 +41,10 @@ This dataset is designed for developing a machine learning model to classify res
 - **Create and activate a virtual environment (optional but recommended)**: python -m venv venv 
 
 - **Run the Streamlit app**: streamlit run app.py
+
+### Screenshot
+
+![image](https://github.com/user-attachments/assets/34a48be7-52d2-4652-b979-3372f15d1d60)
 
 
 ## Technologies Used
